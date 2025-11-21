@@ -1,0 +1,1 @@
+# Notas iniciais da análise
