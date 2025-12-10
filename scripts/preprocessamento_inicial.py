@@ -1,2 +1,3 @@
 import pandas as pd
-print("PrÃ©-processamento inicial configurado.")
+
+print("Pré-processamento inicial configurado.")
